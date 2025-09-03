@@ -2,6 +2,6 @@ streamlit
 pandas
 plotly
 numpy
-sqlite3
 requests
+
 openpyxl
